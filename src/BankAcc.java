@@ -54,6 +54,9 @@ public void withdraw(double withdrawFund){
         this.balance -= withdrawFund;
     }
 }
+public void transaction(){
+
+}
 
 
 }
